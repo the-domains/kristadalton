@@ -1,7 +1,7 @@
 name: KristaDalton
 favicon: null
-layout_spectrum: 0.916295217582956
-typography_spectrum: 0.40243681566789746
+layout_spectrum: 0.35256
+typography_spectrum: 0.7083
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9557757314760238
+  brandStrength: 0.5625
   lightness: 0.8018538500182331
   saturation: 0.45993257546797395
   rhythmicContrast: 0.532144526951015
